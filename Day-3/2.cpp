@@ -7,7 +7,7 @@ int main() {
 
     cout << "Enter a number: ";
     cin >> n;
-
+// CODE FOR FINDING PRIME NUMBER
     if (n <= 1) {
         isPrime = false;
     } else {
