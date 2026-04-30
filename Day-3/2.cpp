@@ -1,10 +1,8 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     int n, i;
     bool isPrime = true;
-
     cout << "Enter a number: ";
     cin >> n;
 // CODE FOR FINDING PRIME NUMBER
