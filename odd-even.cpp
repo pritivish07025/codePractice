@@ -4,7 +4,6 @@ using namespace std;
 int main() {
     int n, num;
     int evenCount = 0, oddCount = 0;
-
     cout << "Enter how many numbers: ";
     cin >> n;
 
