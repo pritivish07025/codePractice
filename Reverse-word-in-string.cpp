@@ -7,20 +7,15 @@ public:
     string reverseWords(string s) {
         string result = "";
         int i = s.length() - 1;
-
         while (i >= 0) {
             // Skip spaces
             while (i >= 0 && s[i] == ' ')
                 i--;
-
             if (i < 0) break;
-
             int j = i;
-
             // Find start of word
             while (i >= 0 && s[i] != ' ')
                 i--;
-
             // Add space if result is not empty
             if (!result.empty())
                 result += ' ';
