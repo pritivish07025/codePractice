@@ -2,26 +2,16 @@
 using namespace std;
 
 int main() {
-    int n, num;
-    int evenCount = 0, oddCount = 0;
-    cout << "Enter how many numbers: ";
-    cin >> n;
+    int num;
 
-    for(int i = 1; i <= n; i++) {
-        cout << "Enter number " << i << ": ";
-        cin >> num;
+    cout << "Enter a number: ";
+    cin >> num;
 
-        if(num % 2 == 0) {
-            cout << num << " is Even" << endl;
-            evenCount++;
-        } else {
-            cout << num << " is Odd" << endl;
-            oddCount++;
-        }
+    if (num % 2 == 0) {
+        cout << "The number is Even";
+    } else {
+        cout << "The number is Odd";
     }
-
-    cout << "\nTotal Even Numbers: " << evenCount << endl;
-    cout << "Total Odd Numbers: " << oddCount << endl;
 
     return 0;
 }
