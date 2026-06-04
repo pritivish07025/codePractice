@@ -3,7 +3,6 @@ using namespace std;
 
 void moveZerosToEnd(int arr[], int n) {
     int index = 0;
-
     // Move all non-zero elements to the front
     for (int i = 0; i < n; i++) {
         if (arr[i] != 0) {
@@ -23,6 +22,5 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
-
     return 0;
 }
