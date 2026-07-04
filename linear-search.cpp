@@ -11,15 +11,14 @@ int main() {
     int arr[n];
 
     // Input array elements
-    cout << "Enter array elements: ";
+    cout << "Enter array elements: ";  
     for(int i = 0; i < n; i++) {
         cin >> arr[i];
     }
-
     // Element to search
     cout << "Enter element to search: ";
     cin >> key;
-
+   
     // Linear Search
     bool found = false;
 
