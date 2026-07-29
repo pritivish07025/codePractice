@@ -24,10 +24,6 @@ This repository is created to:
 
 ---
 
-## 📂 Repository Structure
-
-
-```
 
 ---
 
