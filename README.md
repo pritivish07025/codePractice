@@ -1,89 +1,177 @@
-# 🚀 Code Practice
+# 🚀 C++ Code Practice & DSA Solutions
 
-A collection of coding problems and solutions solved in **C++** to improve problem-solving skills, Data Structures & Algorithms (DSA), and placement preparation.
+A collection of **C++ coding problems and solutions** solved through regular practice to strengthen **Data Structures & Algorithms (DSA)**, problem-solving skills, and coding interview preparation.
 
-This repository contains solutions from various coding platforms along with well-structured implementations and optimized approaches.
-
----
-
-## 📌 About
-
-This repository is created to:
-
-- 💻 Practice coding consistently
-- 🧠 Strengthen DSA concepts
-- 🎯 Prepare for coding interviews and placements
-- 📚 Learn different problem-solving techniques
-- ⚡ Improve coding speed and logic-building skills
+This repository includes solutions from platforms such as **LeetCode** and other coding-practice sources, with a focus on clean, efficient, and easy-to-understand implementations.
 
 ---
 
-## 🛠️ Languages Used
+## 📌 About This Repository
 
-- C++
+This repository is built to:
 
----
-
-
----
-
-## 🎯 Purpose
-
-The primary goal of this repository is to:
-
-- Build strong programming fundamentals
-- Master Data Structures & Algorithms
-- Crack coding interviews
-- Prepare for campus placements
-- Track daily coding progress
+* 💻 Practice coding consistently
+* 🧠 Strengthen DSA concepts
+* 🎯 Prepare for technical interviews and placements
+* ⚡ Improve problem-solving speed and logical thinking
+* 📚 Understand multiple approaches to coding problems
+* 📈 Track my coding practice and progress
 
 ---
 
-## 💡 Features
+## 🛠️ Tech Stack
 
-- Clean and readable C++ code
-- Optimized solutions whenever possible
-- Beginner-friendly implementations
-- Regularly updated
-- Covers multiple DSA topics
+* **Language:** C++
+* **Concepts:** Data Structures & Algorithms
+* **Practice Platforms:** LeetCode & other coding platforms
+* **IDE:** VS Code
+
+---
+
+## 📚 Topics Covered
+
+The repository covers a wide range of DSA topics, including:
+
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Hashing
+* 🔹 Two Pointers
+* 🔹 Sliding Window
+* 🔹 Binary Search
+* 🔹 Sorting
+* 🔹 Linked Lists
+* 🔹 Stack & Queue
+* 🔹 Recursion
+* 🔹 Backtracking
+* 🔹 Trees
+* 🔹 Binary Trees
+* 🔹 Binary Search Trees
+* 🔹 Graphs
+* 🔹 Greedy Algorithms
+* 🔹 Dynamic Programming
+* 🔹 Bit Manipulation
+* 🔹 Math & Number Theory
+
+> Topics will continue to expand as I progress through my DSA journey.
+
+---
+
+## ✨ Features
+
+* ✅ Clean and readable C++ implementations
+* ⚡ Optimized solutions with focus on time and space complexity
+* 🧩 Multiple problem-solving approaches
+* 📖 Beginner-friendly code structure
+* 🔄 Regularly updated with new problems
+* 🎯 Interview and placement focused
+* 📊 Covers important DSA patterns
+
+---
+
+## 📂 Repository Structure
+
+```text
+C++-Code-Practice/
+│
+├── Arrays/
+├── Strings/
+├── Hashing/
+├── Searching/
+├── Sorting/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Recursion/
+├── Backtracking/
+├── Trees/
+├── Graphs/
+├── Greedy/
+├── DynamicProgramming/
+└── README.md
+```
+
+*The folder structure may evolve as more problems and topics are added.*
+
+---
+
+## 🧠 Problem-Solving Approach
+
+For each problem, I focus on:
+
+1. Understanding the problem statement
+2. Identifying the appropriate DSA pattern
+3. Developing a brute-force approach
+4. Optimizing the solution
+5. Analyzing **Time Complexity**
+6. Analyzing **Space Complexity**
+7. Implementing the solution in C++
 
 ---
 
 ## 📈 Progress
 
-This repository is continuously updated with new coding problems and optimized solutions.
+This repository represents my ongoing **DSA and competitive coding journey**.
 
-⭐ More problems will be added regularly.
+I am continuously solving new problems, revisiting important concepts, and improving previously written solutions.
+
+```text
+DSA Practice → Problem Solving → Optimization → Interview Preparation 🚀
+```
+
+⭐ More problems and optimized solutions will be added regularly.
+
+---
+
+## 🎯 Goals
+
+* Master core Data Structures & Algorithms
+* Improve coding and problem-solving skills
+* Build strong programming fundamentals
+* Prepare for technical interviews
+* Prepare for campus placements
+* Develop consistency in daily coding practice
+* Become a better software engineer
 
 ---
 
 ## 🤝 Contributions
 
-Contributions are welcome!
+Contributions and suggestions are welcome!
 
-If you'd like to improve an existing solution or add a new one:
+If you find an issue or want to improve a solution:
 
 1. Fork the repository
 2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+3. Make your changes
+4. Commit your changes
+5. Open a Pull Request
 
 ---
 
-## 📬 Connect With Me
+## 👩‍💻 About Me
 
 **Priti Vishwakarma**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/priti-vishwakarma-279118304/
-- 💻 GitHub: https://github.com/pritivish07025
-- 🧩 LeetCode: https://leetcode.com/u/pritivishwakarma25/
+🎓 B.Tech Computer Science Engineering Student
+💻 Aspiring Software Development Engineer
+🧠 DSA & Problem-Solving Enthusiast
+
+### 🔗 Connect With Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/priti-vishwakarma-279118304/
+* 💻 **GitHub:** https://github.com/pritivish07025
+* 🧩 **LeetCode:** https://leetcode.com/u/pritivishwakarma25/
 
 ---
 
 ## ⭐ Support
 
-If you find this repository helpful, please consider giving it a **⭐ Star**.
+If you find this repository useful, consider giving it a **⭐ Star**.
 
-It motivates me to keep adding more coding solutions and improving the repository.
+Your support motivates me to keep solving problems, learning new concepts, and improving my coding skills.
 
-Happy Coding! 🚀
+---
+
+### 🚀 Keep Learning. Keep Coding. Keep Improving.
+
+**Happy Coding! 💻✨**
